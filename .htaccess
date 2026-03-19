@@ -1,0 +1,15 @@
+## Turn on rewrite engine
+RewriteEngine on
+
+## Force WWW
+RewriteCond %{HTTP_HOST} ^shrs\.in [NC]
+RewriteRule ^(.*)$ http://www.shrs.in/$1 [L,R=301,NC]
+
+## Force HTTPS
+RewriteCond %{HTTPS} !on
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+## 404
+ErrorDocument 404 /404.php
