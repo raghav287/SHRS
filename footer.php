@@ -84,19 +84,45 @@
         </div>
     </footer>
     
-    <style>
+<style>
 .wafloat{
-	position:fixed;
-	width:50px;
-	height:50px;
-	bottom:15px;
-	left:15px;
-  z-index:100;
+    position: fixed;
+    width: 56px;
+    height: 56px;
+    bottom: 105px;
+    right: 45px;
+    z-index: 1000;
+}
+
+.wafloat a{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #25d366;
+    color: #fff;
+    font-size: 30px;
+    box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
+}
+
+@media (max-width: 767px) {
+    .wafloat{
+        width: 50px;
+        height: 50px;
+        bottom: 70px;
+        right: 12px;
+    }
+
+    .wafloat a{
+        font-size: 26px;
+    }
 }
 
 /* Bounce CSS */
 .mks-bounce {
-    display: inline-block;
+    display: flex;
     position: relative;
     -moz-animation: mks-bounce 0.8s infinite linear;
     -o-animation: mks-bounce 0.8s infinite linear;
@@ -195,7 +221,7 @@
 }
 </style>
 <span class="wafloat">
-<a href="https://api.whatsapp.com/send?phone=+919814009040&text=Hi%2C+is+there+anyone+from+SHRS+%3F">
-<img class="mks-bounce" src="https://www.makes360.com/images/accet/whatsapp.png" height="auto" width="50px" alt="whatsapp">
+<a href="https://api.whatsapp.com/send?phone=919814009040&text=Hi%2C+is+there+anyone+from+SHRS+%3F" target="_blank" rel="noopener noreferrer" aria-label="Chat with SHRS on WhatsApp">
+<i class="fa fa-whatsapp mks-bounce" aria-hidden="true"></i>
 </a>
 </span>
