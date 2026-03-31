@@ -85,6 +85,63 @@
         color: #4db690;
     }
 
+    .project-spotlight-section {
+        padding: 60px 0;
+        background: #f8faf7;
+    }
+
+    .project-spotlight-grid {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 24px;
+    }
+
+    .project-spotlight-card {
+        background: #fff;
+        border-radius: 14px;
+        box-shadow: 0 14px 32px rgba(0, 0, 0, 0.08);
+        overflow: hidden;
+        text-align: center;
+        padding: 18px 18px 12px;
+    }
+
+    .project-spotlight-card h4 {
+        margin: 12px 0 4px;
+        font-size: 18px;
+    }
+
+    .project-spotlight-card p {
+        margin: 0 0 12px;
+        color: #666;
+        font-size: 14px;
+    }
+
+    .project-spotlight-img {
+        width: 100%;
+        height: auto;
+        border-radius: 10px;
+    }
+
+    .projects-overview-section {
+        padding: 60px 0;
+        background: #f8faf7;
+        text-align: center;
+    }
+
+    .projects-overview-section .heading-border {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .projects-overview-img {
+        width: 100%;
+        max-width: 980px;
+        margin: 32px auto 0;
+        display: block;
+        border-radius: 12px;
+        box-shadow: 0 18px 36px rgba(0, 0, 0, 0.08);
+    }
+
     @media (max-width: 767px) {
         .project-gallery-section {
             padding: 40px 0;
@@ -100,6 +157,22 @@
 
         .press-slide img {
             height: 180px;
+        }
+
+        .project-spotlight-grid {
+            grid-template-columns: 1fr;
+        }
+
+        .project-spotlight-card {
+            padding: 16px;
+        }
+
+        .projects-overview-section {
+            padding: 40px 0;
+        }
+
+        .projects-overview-img {
+            box-shadow: 0 12px 28px rgba(0, 0, 0, 0.06);
         }
     }
     </style>
@@ -128,6 +201,19 @@
             </div>
         </div>
     </div>
+
+
+
+    <section class="projects-overview-section">
+        <div class="container">
+            <div class="section-heading text-center">
+                <h2>Our Projects </h2>
+                <span class="heading-border"></span>
+                <p>A visual overview of SHRS initiatives across empowerment, awareness, healthcare, and tourism.</p>
+            </div>
+            <img src="img/our-projects.png" class="projects-overview-img" alt="SHRS projects overview diagram">
+        </div>
+    </section>
 
     <section class="contact-section paddingAA">
         <!-- <div id="google_map"></div> -->
@@ -374,6 +460,67 @@
 
 
                     </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section class="project-spotlight-section">
+        <div class="container">
+            <div class="section-heading text-center mb-40">
+                <h2>Project Spotlights</h2>
+                <span class="heading-border"></span>
+                <p>Visual snapshots of flagship SHRS projects across education, health, inclusion, and empowerment.</p>
+            </div>
+            <div class="project-spotlight-grid">
+                <div class="project-spotlight-card">
+                    <img src="img/project/program-edge.png" class="project-spotlight-img"
+                        alt="Program EDGE project poster">
+                    <h4>Program EDGE</h4>
+                    <p>English & digital skills for girls (DEF & British Council).</p>
+                </div>
+                <div class="project-spotlight-card">
+                    <img src="img/project/health-prevention.png" class="project-spotlight-img"
+                        alt="Health and prevention project poster">
+                    <h4>Health & Prevention</h4>
+                    <p>Traditional medicine awareness & outreach (Mann Movies Productions).</p>
+                </div>
+                <div class="project-spotlight-card">
+                    <img src="img/project/financial-inclusion.png" class="project-spotlight-img"
+                        alt="Financial inclusion project poster">
+                    <h4>Financial Inclusion</h4>
+                    <p>Digitization of villages with AXIS Bank & DEF.</p>
+                </div>
+                <div class="project-spotlight-card">
+                    <img src="img/project/internet-saathi.png" class="project-spotlight-img"
+                        alt="Internet Saathi project poster">
+                    <h4>Internet Saathi</h4>
+                    <p>Digital literacy for rural women across five districts.</p>
+                </div>
+                <div class="project-spotlight-card">
+                    <img src="img/project/digital-empowerment.png" class="project-spotlight-img"
+                        alt="Digital empowerment program poster">
+                    <h4>Digital Empowerment</h4>
+                    <p>Community Information Resource Centres for digital literacy.</p>
+                </div>
+                <div class="project-spotlight-card">
+                    <img src="img/project/sustainable-education.png" class="project-spotlight-img"
+                        alt="Sustainable education project poster">
+                    <h4>Sustainable Education</h4>
+                    <p>SAFAL HO guidance and counselling initiative.</p>
+                </div>
+                <div class="project-spotlight-card">
+                    <img src="img/project/sustainable-special-children.png" class="project-spotlight-img"
+                        alt="Sustainable projects for special children poster">
+                    <h4>Projects for Special Children</h4>
+                    <p>Training, counseling, and events for special children & parents.</p>
+                </div>
+                <div class="project-spotlight-card">
+                    <img src="img/project/social-documentaries.png" class="project-spotlight-img"
+                        alt="Social documentaries poster">
+                    <h4>Social Documentaries</h4>
+                    <p>Films for government, NGOs, corporate, and Yoga Day coverage.</p>
                 </div>
             </div>
         </div>

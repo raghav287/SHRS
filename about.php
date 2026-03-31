@@ -204,6 +204,55 @@
         background: #fff;
     }
 
+    .working-structure-section {
+        padding: 60px 0;
+        background: #f8faf7;
+        text-align: center;
+    }
+
+    .working-structure-section .heading-border {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .working-structure-img {
+        width: 100%;
+        max-width: 980px;
+        margin: 30px auto 0;
+        display: block;
+        border-radius: 12px;
+        box-shadow: 0 18px 36px rgba(0, 0, 0, 0.08);
+    }
+
+    .info-banner-section {
+        padding: 60px 0;
+        background: #ffffff;
+    }
+
+    .info-banner-grid {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 24px;
+    }
+
+    .info-banner-card {
+        background: #f8faf7;
+        border-radius: 14px;
+        box-shadow: 0 14px 32px rgba(0, 0, 0, 0.08);
+        padding: 16px;
+        text-align: center;
+    }
+
+    .info-banner-card h3 {
+        margin-bottom: 12px;
+    }
+
+    .info-banner-img {
+        width: 100%;
+        height: auto;
+        border-radius: 10px;
+    }
+
     .media-gallery-item img {
         width: 100%;
         height: 280px;
@@ -247,6 +296,23 @@
         .media-gallery-item img {
             height: 220px;
         }
+
+        .working-structure-section {
+            padding: 40px 0;
+        }
+
+        .working-structure-img {
+            max-width: 100%;
+            box-shadow: 0 12px 28px rgba(0, 0, 0, 0.06);
+        }
+
+        .info-banner-grid {
+            grid-template-columns: 1fr;
+        }
+
+        .info-banner-section {
+            padding: 40px 0;
+        }
     }
     </style>
     <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
@@ -274,6 +340,8 @@
             </div>
         </div>
     </div>
+
+
 
     <!-- <section class="contact-section paddingAA"> -->
     <!-- <div id="google_map"></div> -->
@@ -309,7 +377,7 @@
     </div>
     </section> -->
 
-    <section class="president-message-section">
+    <section class="president-message-section" style="background-color:#ffffff ;">
         <div class="container">
             <div class="president-message-card">
                 <div class="row">
@@ -370,6 +438,38 @@
                             </div>
                         </div>
                     </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section class="working-structure-section">
+        <div class="container">
+            <div class="section-heading text-center">
+                <h2>Working Structure</h2>
+                <span class="heading-border"></span>
+                <p>How SHRS connects counselling, training, health, and sustainable development across communities.</p>
+            </div>
+            <img src="img/working-structure.png" class="working-structure-img" alt="SHRS working structure diagram">
+        </div>
+    </section>
+
+    <section class="info-banner-section">
+        <div class="container">
+            <div class="section-heading text-center mb-40">
+                <h2>Reach & Recognition</h2>
+                <span class="heading-border"></span>
+                <p>Where SHRS operates and the accolades received for community impact.</p>
+            </div>
+            <div class="info-banner-grid">
+                <div class="info-banner-card">
+                    <h3>Our Reach & Area of Work</h3>
+                    <img src="img/about/our-reach-area.png" class="info-banner-img" alt="Map and addresses of SHRS reach and area of work">
+                </div>
+                <div class="info-banner-card">
+                    <h3>Appreciation</h3>
+                    <img src="img/about/appreciation.png" class="info-banner-img" alt="Awards and certificates for SHRS">
                 </div>
             </div>
         </div>
@@ -464,13 +564,15 @@
                         <div class="col-md-6 xs-padding">
                             <h3>Our Mission</h3>
                             <span class="heading-border"></span>
-                            <p>Our mission is to create an equal society where individuals acquire competent skills to
-                                become independent. This equality also entails an environment of support and welfare for
-                                women, where they are a part of mainstream economy and livelihood in the households.
+                            <p>
+                                Our mission is to create an ‘Equal Society’ where individuals acquire competent skills
+                                to become independent. This equality also entails an environment of support and welfare
+                                for women, ensuring they are a part of the mainstream economy and contribute to
+                                household livelihoods.
                                 <br><br>
-                                Short term goal is to focus on imparting literacy through non-formal education,
-                                Technical/ Vocational Education, Health & Hygiene Awareness, Advocacy for the Government
-                                policies that benefit people, educating women about their rights.
+                                Our short-term goal is to focus on imparting literacy through non-formal education,
+                                Technical/Vocational Education, Health & Hygiene Awareness, advocacy for government
+                                policies that benefit people, and educating women about their rights.
                             </p>
                         </div>
                         <div class="col-md-6 xs-padding">
@@ -493,13 +595,17 @@
                         <div class="col-md-6 xs-padding">
                             <h3>Our Vision</h3>
                             <span class="heading-border"></span>
-                            <p>With the motto to “Inform, Communicate, and Empower”, SHRS aims to empower the abilities
-                                of special children, find sustainable ICT solutions, to overcome information poverty in
-                                rural, semi urban and urban areas of India. It also aims to promote Health through
-                                Ayurveda, Helping the needy and old age people, Women and Youth Empowerment, Sustainable
-                                Agriculture and Tourism.<br><br>In an effort to achieve this aim, SHRS has initiated
-                                projects in areas of Access & Infrastructure ; Education & Empowerment; Citizen
-                                Services; Social Enterprises; Knowledge Hub & Network; Heritage & Culture.</p>
+                            <p>
+                                With the motto to “Inform, Communicate, and Empower”, Safe Hands Rehabilitation Society
+                                (SHRS) aims to empower the abilities of special children and find sustainable ICT
+                                solutions to overcome information poverty in rural, semi-urban, and urban areas of
+                                India. It also aims to promote health through Ayurveda and prevention strategies,
+                                helping the needy and elderly people, along with women and youth empowerment.
+                                <br><br>
+                                In an effort to achieve this aim, SHRS has initiated projects in areas of Access &
+                                Infrastructure; Governance & Citizen Services; Markets & Social
+                                Enterprises; Knowledge Hub & Network; Research & Advocacy; .
+                            </p>
                         </div>
 
                     </div>
@@ -511,7 +617,7 @@
 
     <br>
 
-    <section class="team-section bg-grey bd-bottom padding">
+    <!-- <section class="team-section bg-grey bd-bottom padding">
         <div class="container">
 
 
@@ -585,7 +691,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <section class="cta-section d-flex align-items-center">
         <div class="container">

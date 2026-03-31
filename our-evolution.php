@@ -36,6 +36,22 @@
     <link rel="stylesheet" href="css/main.css">
 
     <link rel="stylesheet" href="css/responsive.css">
+    <style>
+    .evolution-banner-section {
+        padding: 50px 0;
+        background: #f8faf7;
+        text-align: center;
+    }
+
+    .evolution-banner-img {
+        width: 100%;
+        max-width: 960px;
+        margin: 0 auto;
+        display: block;
+        border-radius: 12px;
+        box-shadow: 0 16px 32px rgba(0, 0, 0, 0.08);
+    }
+    </style>
     <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
 </head>
 
@@ -90,6 +106,17 @@ Welcome to our SHRS Evolution page. Since 2013, Safe Hands Rehabilitation Societ
 
     </section>
 
+    <section class="evolution-banner-section">
+        <div class="container">
+            <div class="section-heading text-center mb-30">
+                <h2>Capacity Building Workshops for NGOs</h2>
+                <span class="heading-border"></span>
+                <p>Training and workshops that strengthen grassroots organizations.</p>
+            </div>
+            <img src="img/evolution/capacity-building-ngo.png" class="evolution-banner-img" alt="Capacity building workshops for NGOs collage">
+        </div>
+    </section>
+    
     <br>
     
     <?php include 'footer.php' ?>
