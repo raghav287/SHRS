@@ -1,11 +1,13 @@
 <!doctype html>
 <html class="no-js" lang="en">
+
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Our Evolution | SHRS - Safe Hands Rehabilitation Society</title>
 
-    <meta name="description" content="Join the transformative journey of Safe Hands Rehabilitation Society (SHRS) in addressing mental health stigma and promoting inclusive growth. Empowering lives through innovative initiatives and collaborations">
+    <meta name="description"
+        content="Join the transformative journey of Safe Hands Rehabilitation Society (SHRS) in addressing mental health stigma and promoting inclusive growth. Empowering lives through innovative initiatives and collaborations">
     <meta name="keywords" content="Our Evolution - Safe Hands Rehabilitation Society">
     <link rel="shortcut icon" href="img/favicon/favicon.png">
     <link rel="apple-touch-icon" href="img/favicon/apple-touch-icon.png">
@@ -56,9 +58,9 @@
 </head>
 
 <body>
-    <div class="site-preloader-wrap">
+    <!-- <div class="site-preloader-wrap">
         <div class="spinner"></div>
-    </div>
+    </div> -->
 
     <?php include 'header.php' ?>
 
@@ -68,7 +70,8 @@
         <div class="container">
             <div class="page-content">
                 <h2>Our Evolution</h2>
-                <p>Join the transformative journey of Safe Hands Rehabilitation Society (SHRS) in addressing mental health stigma and promoting inclusive growth</p>
+                <p>Join the transformative journey of Safe Hands Rehabilitation Society (SHRS) in addressing mental
+                    health stigma and promoting inclusive growth</p>
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="/">Home</a></li>
                     <li class="breadcrumb-item active">Our Evolution</li>
@@ -81,27 +84,43 @@
         <!-- <div id="google_map"></div> -->
         <br>
         <div class="container">
-        <p>
-Welcome to our SHRS Evolution page. Since 2013, Safe Hands Rehabilitation Society (SHRS) has been dedicated to addressing mental health stigma through regular awareness programs. Join us as we share the remarkable journey of transforming lives and promoting inclusive growth.</p>
-<br>
-<h2>Our Evolution: Safe Hands Rehabilitation Society (SHRS)</h2>
-<li>2013: SHRS is established, focusing on addressing mental health stigma through regular awareness programs.</li>
-<li>Recognition and Awards: SHRS is recognized and awarded for its work in various developmental fields, appreciated by central and state governments, district administrations, and legislatures.</li>
-<li>Public Welfare: SHRS defines public welfare as a social and managerial process, enabling individuals and groups to obtain what they need through problem-solving and teamwork.</li>
-<br>
-<h2>SHRS's Journey:</h2>
-<li>World Summit on Information Society (WSIS): Participates in the prestigious WSIS in Geneva.</li>
-<li>Book Publication: Publishes "eContent: Voices from the Ground," a compendium of digital content from 28 countries.</li>
-<li>Manthan Awards: Develops a framework for Manthan Awards, identifying ICTD best practices in India.</li>
-<li>Partnerships and Collaborations: Establishes partnerships with organizations like World Summit Awards, National Institute of Smart Governance (NISG), Intel, and more.</li>
-<li>Community Initiatives: Launches projects like Community Information Resource Centre (CIRC), Digital Panchayat, and interventions in the community radio sector.</li>
-<li>Programmatic Verticals: Institutionalizes seven programmatic verticals, including Access & Infrastructure, Governance & Services on Demand, Education & Empowerment, and more.</li>
-<li>Digital Empowerment: Launches initiatives like eNGO, Chanderiyaan, Mobile for Good Awards, Internet Rights, and Soochna Seva.</li>
-<li>Collaborative Efforts: Joins consortiums and collaborates with organizations like Internews, Bill and Melinda Gates Foundation, UNICEF, American Centre, and UNESCO.</li>
-<li>Expansion and Recognition: Expands CIRCs to 25 centers, introduces district public libraries project, Minority Cyber Gram Yojana, Manthan South West India Award, eUttara Award, and more.</li>
-<li>Digital Inclusion: Facilitates the migration of NGOs to the .ngo and .ong domains, organizes workshops on ICT for disabled people, and promotes online access through initiatives like 'Help Women Get Online.'</li>
-<p>This is just a glimpse of SHRS's journey, filled with transformative initiatives, collaborations, and recognition. Join us in our mission to empower individuals and create a society where mental health is destigmatized and everyone has access to the support they need. Together, we can make a difference!</p>
-</div>
+            <p>
+                Welcome to our SHRS Evolution page. Since 2013, Safe Hands Rehabilitation Society (SHRS) has been
+                dedicated to addressing mental health stigma through regular awareness programs. Join us as we share the
+                remarkable journey of transforming lives and promoting inclusive growth.</p>
+            <br>
+            <h2>Our Evolution: Safe Hands Rehabilitation Society (SHRS)</h2>
+            <li>2013: SHRS is established, focusing on addressing mental health stigma through regular awareness
+                programs.</li>
+            <li>Recognition and Awards: SHRS is recognized and awarded for its work in various developmental fields,
+                appreciated by central and state governments, district administrations, and legislatures.</li>
+            <li>Public Welfare: SHRS defines public welfare as a social and managerial process, enabling individuals and
+                groups to obtain what they need through problem-solving and teamwork.</li>
+            <br>
+            <h2>SHRS's Journey:</h2>
+            <li>World Summit on Information Society (WSIS): Participates in the prestigious WSIS in Geneva.</li>
+            <li>Book Publication: Publishes "eContent: Voices from the Ground," a compendium of digital content from 28
+                countries.</li>
+            <li>Manthan Awards: Develops a framework for Manthan Awards, identifying ICTD best practices in India.</li>
+            <li>Partnerships and Collaborations: Establishes partnerships with organizations like World Summit Awards,
+                National Institute of Smart Governance (NISG), Intel, and more.</li>
+            <li>Community Initiatives: Launches projects like Community Information Resource Centre (CIRC), Digital
+                Panchayat, and interventions in the community radio sector.</li>
+            <li>Programmatic Verticals: Institutionalizes seven programmatic verticals, including Access &
+                Infrastructure, Governance & Services on Demand, Education & Empowerment, and more.</li>
+            <li>Digital Empowerment: Launches initiatives like eNGO, Chanderiyaan, Mobile for Good Awards, Internet
+                Rights, and Soochna Seva.</li>
+            <li>Collaborative Efforts: Joins consortiums and collaborates with organizations like Internews, Bill and
+                Melinda Gates Foundation, UNICEF, American Centre, and UNESCO.</li>
+            <li>Expansion and Recognition: Expands CIRCs to 25 centers, introduces district public libraries project,
+                Minority Cyber Gram Yojana, Manthan South West India Award, eUttara Award, and more.</li>
+            <li>Digital Inclusion: Facilitates the migration of NGOs to the .ngo and .ong domains, organizes workshops
+                on ICT for disabled people, and promotes online access through initiatives like 'Help Women Get Online.'
+            </li>
+            <p>This is just a glimpse of SHRS's journey, filled with transformative initiatives, collaborations, and
+                recognition. Join us in our mission to empower individuals and create a society where mental health is
+                destigmatized and everyone has access to the support they need. Together, we can make a difference!</p>
+        </div>
 
 
     </section>
@@ -113,12 +132,13 @@ Welcome to our SHRS Evolution page. Since 2013, Safe Hands Rehabilitation Societ
                 <span class="heading-border"></span>
                 <p>Training and workshops that strengthen grassroots organizations.</p>
             </div>
-            <img src="img/evolution/capacity-building-ngo.png" class="evolution-banner-img" alt="Capacity building workshops for NGOs collage">
+            <img src="img/evolution/capacity-building-ngo.png" class="evolution-banner-img"
+                alt="Capacity building workshops for NGOs collage">
         </div>
     </section>
-    
+
     <br>
-    
+
     <?php include 'footer.php' ?>
 
     <a data-scroll href="#header" id="scroll-to-top"><i class="arrow_up"></i></a>

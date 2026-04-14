@@ -1,11 +1,13 @@
 <!doctype html>
 <html class="no-js" lang="en">
+
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Causes | SHRS - Safe Hands Rehabilitation Society</title>
 
-    <meta name="description" content="Support our mission. Donate now for disability welfare, digital empowerment, education, health, financial inclusion, and women's empowerment. Help us create a more inclusive society. Every donation counts. Join us today!">
+    <meta name="description"
+        content="Support our mission. Donate now for disability welfare, digital empowerment, education, health, financial inclusion, and women's empowerment. Help us create a more inclusive society. Every donation counts. Join us today!">
     <meta name="keywords" content="Causes SHRS - Safe Hands Rehabilitation Society">
     <link rel="shortcut icon" href="img/favicon/favicon.png">
     <link rel="apple-touch-icon" href="img/favicon/apple-touch-icon.png">
@@ -40,9 +42,9 @@
 </head>
 
 <body>
-    <div class="site-preloader-wrap">
+    <!-- <div class="site-preloader-wrap">
         <div class="spinner"></div>
-    </div>
+    </div> -->
 
     <?php include 'header.php' ?>
 
@@ -52,7 +54,8 @@
         <div class="container">
             <div class="page-content">
                 <h2>Recent Causes</h2>
-                <p>Donate now for disability welfare, digital empowerment, education, health, financial inclusion, and women's empowerment.</p>
+                <p>Donate now for disability welfare, digital empowerment, education, health, financial inclusion, and
+                    women's empowerment.</p>
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="/">Home</a></li>
                     <li class="breadcrumb-item active">Causes</li>
@@ -60,34 +63,50 @@
             </div>
         </div>
     </div>
-	
-	<?php include 'cause.php' ?>
-    
-    
-     <section class="contact-section">
+
+    <?php include 'cause.php' ?>
+
+
+    <section class="contact-section">
         <!-- <div id="google_map"></div> -->
-       
+
         <div class="container">
-  <br><br>
-        <p>We are dedicated to making a positive impact through our recent causes. Your generous donations, no matter the size, play a crucial role in supporting our mission. By contributing, you help us organize awareness programs, launch campaigns, and implement developmental initiatives that foster an inclusive and supportive society.
-<br><br>
-Our digital empowerment programs strive to bridge the digital divide by providing technology access and digital literacy training to those in need. Through our sustainable education project, we aim to create sustainable educational opportunities for underprivileged children and communities. Additionally, our health and prevention programs focus on raising awareness, providing healthcare access, and preventing the spread of diseases.
-<br><br>
-Financial inclusion is another key area where we work towards promoting financial literacy and providing access to financial services. Our Internet Saathi program empowers women and promotes digital literacy in rural areas, recognizing the importance of internet access for all. Lastly, our Program Edge initiative fosters skill development and employability among young individuals through training and support.
-<br><br>
-Your donations are instrumental in helping us achieve our goals. Join us in making a difference by contributing to these causes and supporting our mission of creating a better future for all. Donate now and be a part of the positive change we strive to bring.</p>
-</div>
+            <br><br>
+            <p>We are dedicated to making a positive impact through our recent causes. Your generous donations, no
+                matter the size, play a crucial role in supporting our mission. By contributing, you help us organize
+                awareness programs, launch campaigns, and implement developmental initiatives that foster an inclusive
+                and supportive society.
+                <br><br>
+                Our digital empowerment programs strive to bridge the digital divide by providing technology access and
+                digital literacy training to those in need. Through our sustainable education project, we aim to create
+                sustainable educational opportunities for underprivileged children and communities. Additionally, our
+                health and prevention programs focus on raising awareness, providing healthcare access, and preventing
+                the spread of diseases.
+                <br><br>
+                Financial inclusion is another key area where we work towards promoting financial literacy and providing
+                access to financial services. Our Internet Saathi program empowers women and promotes digital literacy
+                in rural areas, recognizing the importance of internet access for all. Lastly, our Program Edge
+                initiative fosters skill development and employability among young individuals through training and
+                support.
+                <br><br>
+                Your donations are instrumental in helping us achieve our goals. Join us in making a difference by
+                contributing to these causes and supporting our mission of creating a better future for all. Donate now
+                and be a part of the positive change we strive to bring.
+            </p>
+        </div>
     </section>
-    
-    
-    
+
+
+
     <section class="cta-section d-flex align-items-center">
         <div class="container">
             <div class="row">
                 <div class="col-md-9">
                     <div class="cta-content">
                         <h2>Ready to Join With Us?</h2>
-                        <p>Are you ready to make a difference? Join forces with us at SHRS and become part of a community committed to transforming lives and creating lasting change. Get involved today and let's make a positive impact together!</p>
+                        <p>Are you ready to make a difference? Join forces with us at SHRS and become part of a
+                            community committed to transforming lives and creating lasting change. Get involved today
+                            and let's make a positive impact together!</p>
                     </div>
                 </div>
                 <div class="col-md-3 d-flex align-items-center text-right">
@@ -96,7 +115,7 @@ Your donations are instrumental in helping us achieve our goals. Join us in maki
             </div>
         </div>
     </section>
-    
+
     <div class="sponsor-section bd-bottom">
         <div class="container">
             <ul id="sponsor-carousel" class="sponsor-items owl-carousel">
@@ -118,12 +137,12 @@ Your donations are instrumental in helping us achieve our goals. Join us in maki
                 <li class="sponsor-item">
                     <img src="img/partner-6.jpg" alt="sponsor-image">
                 </li>
-                
-               
+
+
             </ul>
         </div>
     </div>
-    
+
     <?php include 'footer.php' ?>
 
     <a data-scroll href="#header" id="scroll-to-top"><i class="arrow_up"></i></a>

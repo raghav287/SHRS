@@ -319,9 +319,9 @@
 </head>
 
 <body>
-    <div class="site-preloader-wrap">
+    <!-- <div class="site-preloader-wrap">
         <div class="spinner"></div>
-    </div>
+    </div> -->
 
     <?php include 'header.php' ?>
 
@@ -465,11 +465,13 @@
             <div class="info-banner-grid">
                 <div class="info-banner-card">
                     <h3>Our Reach & Area of Work</h3>
-                    <img src="img/about/our-reach-area.png" class="info-banner-img" alt="Map and addresses of SHRS reach and area of work">
+                    <img src="img/about/our-reach-area.png" class="info-banner-img"
+                        alt="Map and addresses of SHRS reach and area of work">
                 </div>
                 <div class="info-banner-card">
                     <h3>Appreciation</h3>
-                    <img src="img/about/appreciation.png" class="info-banner-img" alt="Awards and certificates for SHRS">
+                    <img src="img/about/appreciation.png" class="info-banner-img"
+                        alt="Awards and certificates for SHRS">
                 </div>
             </div>
         </div>

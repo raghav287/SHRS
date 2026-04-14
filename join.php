@@ -1,11 +1,13 @@
 <!doctype html>
 <html class="no-js" lang="en">
+
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Join Us | SHRS - Safe Hands Rehabilitation Society</title>
 
-    <meta name="description" content="Join Us Safe Hands Rehabilitation Society (SHRS), a non-profit empowering individuals. Join us today">
+    <meta name="description"
+        content="Join Us Safe Hands Rehabilitation Society (SHRS), a non-profit empowering individuals. Join us today">
     <meta name="keywords" content="Join Us SHRS - Safe Hands Rehabilitation Society">
     <link rel="shortcut icon" href="img/favicon/favicon.png">
     <link rel="apple-touch-icon" href="img/favicon/apple-touch-icon.png">
@@ -40,9 +42,9 @@
 </head>
 
 <body>
-    <div class="site-preloader-wrap">
+    <!-- <div class="site-preloader-wrap">
         <div class="spinner"></div>
-    </div>
+    </div> -->
 
     <?php include 'header.php' ?>
 
@@ -52,7 +54,8 @@
         <div class="container">
             <div class="page-content">
                 <h2>Join Us</h2>
-                <p>Ready to embark on a transformative journey? Join us now and let's create a world of limitless possibilities together!</p>
+                <p>Ready to embark on a transformative journey? Join us now and let's create a world of limitless
+                    possibilities together!</p>
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="/">Home</a></li>
                     <li class="breadcrumb-item active">Join</li>
@@ -65,205 +68,207 @@
         <!-- <div id="google_map"></div> -->
         <br>
         <div class="container">
-        
-        
-        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdZOEWfZrwSKfs6RgufuNhaoz4fnrhAefAPuFvlZOdlNXnRfw/viewform?embedded=true" width="100%" height="2300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-        
-</div>
+
+
+            <iframe
+                src="https://docs.google.com/forms/d/e/1FAIpQLSdZOEWfZrwSKfs6RgufuNhaoz4fnrhAefAPuFvlZOdlNXnRfw/viewform?embedded=true"
+                width="100%" height="2300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+        </div>
 
 
 
         <!-- Begin Mailchimp Signup Form -->
 
-<!--<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">-->
+        <!--<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">-->
 
-<!--<style type="text/css">-->
+        <!--<style type="text/css">-->
 
-<!--               #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }-->
+        <!--               #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }-->
 
-              
 
-<!--</style>-->
 
-<!--<div id="mc_embed_signup">-->
+        <!--</style>-->
 
-<!--<form action="https://app.us10.list-manage.com/subscribe/post?u=a149f395291b71c582ff74c9a&amp;id=f41edec4d1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>-->
+        <!--<div id="mc_embed_signup">-->
 
-<!--    <div id="mc_embed_signup_scroll">-->
+        <!--<form action="https://app.us10.list-manage.com/subscribe/post?u=a149f395291b71c582ff74c9a&amp;id=f41edec4d1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>-->
 
-<!--               <h2>JOIN NOW</h2>-->
+        <!--    <div id="mc_embed_signup_scroll">-->
 
-<!--<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>-->
+        <!--               <h2>JOIN NOW</h2>-->
 
-<!--<div class="mc-field-group">-->
+        <!--<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>-->
 
-<!--               <label for="mce-FNAME">First Name  <span class="asterisk">*</span>-->
+        <!--<div class="mc-field-group">-->
 
-<!--</label>-->
+        <!--               <label for="mce-FNAME">First Name  <span class="asterisk">*</span>-->
 
-<!--               <input type="text" value="" name="FNAME" class="required" id="mce-FNAME">-->
+        <!--</label>-->
 
-<!--</div>-->
+        <!--               <input type="text" value="" name="FNAME" class="required" id="mce-FNAME">-->
 
-<!--<div class="mc-field-group">-->
+        <!--</div>-->
 
-<!--               <label for="mce-LNAME">Last Name </label>-->
+        <!--<div class="mc-field-group">-->
 
-<!--               <input type="text" value="" name="LNAME" class="" id="mce-LNAME">-->
+        <!--               <label for="mce-LNAME">Last Name </label>-->
 
-<!--</div>-->
+        <!--               <input type="text" value="" name="LNAME" class="" id="mce-LNAME">-->
 
-<!--<div class="mc-field-group">-->
+        <!--</div>-->
 
-<!--               <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>-->
+        <!--<div class="mc-field-group">-->
 
-<!--</label>-->
+        <!--               <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>-->
 
-<!--               <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">-->
+        <!--</label>-->
 
-<!--</div>-->
+        <!--               <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">-->
 
-<!--<div class="mc-field-group size1of2">-->
+        <!--</div>-->
 
-<!--               <label for="mce-PHONE">Phone Number  <span class="asterisk">*</span>-->
+        <!--<div class="mc-field-group size1of2">-->
 
-<!--</label>-->
+        <!--               <label for="mce-PHONE">Phone Number  <span class="asterisk">*</span>-->
 
-<!--               <input type="text" name="PHONE" class="required" value="" id="mce-PHONE">-->
+        <!--</label>-->
 
-<!--</div>-->
+        <!--               <input type="text" name="PHONE" class="required" value="" id="mce-PHONE">-->
 
-<!--<div class="mc-field-group size1of2">-->
+        <!--</div>-->
 
-<!--               <label for="mce-AGE">AGE </label>-->
+        <!--<div class="mc-field-group size1of2">-->
 
-<!--               <input type="number" name="AGE" class="" value="" id="mce-AGE">-->
+        <!--               <label for="mce-AGE">AGE </label>-->
 
-<!--</div>-->
+        <!--               <input type="number" name="AGE" class="" value="" id="mce-AGE">-->
 
-<!--<div class="mc-field-group">-->
+        <!--</div>-->
 
-<!--               <label for="mce-VOLTYPE">SELECT VOLUNTEERING PROGRAM </label>-->
+        <!--<div class="mc-field-group">-->
 
-<!--               <select name="VOLTYPE" class="" id="mce-VOLTYPE">-->
+        <!--               <label for="mce-VOLTYPE">SELECT VOLUNTEERING PROGRAM </label>-->
 
-<!--               <option value=""></option>-->
+        <!--               <select name="VOLTYPE" class="" id="mce-VOLTYPE">-->
 
-<!--               <option value="QUICK SHIP (1 MONTH)">QUICK SHIP (1 MONTH)</option>-->
+        <!--               <option value=""></option>-->
 
-<!--<option value="RISE SHIP (3-6 MONTHS)">RISE SHIP (3-6 MONTHS)</option>-->
+        <!--               <option value="QUICK SHIP (1 MONTH)">QUICK SHIP (1 MONTH)</option>-->
 
-<!--<option value="INTENSE SHIP (6-12 MONTHS)">INTENSE SHIP (6-12 MONTHS)</option>-->
+        <!--<option value="RISE SHIP (3-6 MONTHS)">RISE SHIP (3-6 MONTHS)</option>-->
 
- 
+        <!--<option value="INTENSE SHIP (6-12 MONTHS)">INTENSE SHIP (6-12 MONTHS)</option>-->
 
-<!--               </select>-->
 
-<!--</div>-->
 
-<!--<div class="mc-field-group">-->
+        <!--               </select>-->
 
-<!--               <label for="mce-EDUCATION">EDUCATION </label>-->
+        <!--</div>-->
 
-<!--               <input type="text" value="" name="EDUCATION" class="" id="mce-EDUCATION">-->
+        <!--<div class="mc-field-group">-->
 
-<!--</div>-->
+        <!--               <label for="mce-EDUCATION">EDUCATION </label>-->
 
-<!--<div class="mc-field-group">-->
+        <!--               <input type="text" value="" name="EDUCATION" class="" id="mce-EDUCATION">-->
 
-<!--               <label for="mce-PROFESSION">PROFESSION (IF EMPLOYED) </label>-->
+        <!--</div>-->
 
-<!--               <input type="text" value="" name="PROFESSION" class="" id="mce-PROFESSION">-->
+        <!--<div class="mc-field-group">-->
 
-<!--</div>-->
+        <!--               <label for="mce-PROFESSION">PROFESSION (IF EMPLOYED) </label>-->
 
-<!--<div class="mc-field-group">-->
+        <!--               <input type="text" value="" name="PROFESSION" class="" id="mce-PROFESSION">-->
 
-<!--               <label for="mce-SKILLS">YOUR SKILLS &amp; INTEREST  <span class="asterisk">*</span>-->
+        <!--</div>-->
 
-<!--</label>-->
+        <!--<div class="mc-field-group">-->
 
-<!--               <input type="text" value="" name="SKILLS" class="required" id="mce-SKILLS">-->
+        <!--               <label for="mce-SKILLS">YOUR SKILLS &amp; INTEREST  <span class="asterisk">*</span>-->
 
-<!--</div>-->
+        <!--</label>-->
 
-<!--<div class="mc-field-group">-->
+        <!--               <input type="text" value="" name="SKILLS" class="required" id="mce-SKILLS">-->
 
-<!--               <label for="mce-COUNTRY">COUNTRY </label>-->
+        <!--</div>-->
 
-<!--               <input type="text" value="" name="COUNTRY" class="" id="mce-COUNTRY">-->
+        <!--<div class="mc-field-group">-->
 
-<!--</div>-->
+        <!--               <label for="mce-COUNTRY">COUNTRY </label>-->
 
-<!--<div class="mc-field-group">-->
+        <!--               <input type="text" value="" name="COUNTRY" class="" id="mce-COUNTRY">-->
 
-<!--               <label for="mce-CITY">CITY </label>-->
+        <!--</div>-->
 
-<!--               <input type="text" value="" name="CITY" class="" id="mce-CITY">-->
+        <!--<div class="mc-field-group">-->
 
-<!--</div>-->
+        <!--               <label for="mce-CITY">CITY </label>-->
 
-<!--<div class="mc-field-group">-->
+        <!--               <input type="text" value="" name="CITY" class="" id="mce-CITY">-->
 
-<!--               <label for="mce-MODEOFVOL">MODE OF VOLUNTEERING </label>-->
+        <!--</div>-->
 
-<!--               <select name="MODEOFVOL" class="" id="mce-MODEOFVOL">-->
+        <!--<div class="mc-field-group">-->
 
-<!--               <option value=""></option>-->
+        <!--               <label for="mce-MODEOFVOL">MODE OF VOLUNTEERING </label>-->
 
-<!--               <option value="ONLINE (VOLUNTEER FROM HOME))">ONLINE (VOLUNTEER FROM HOME))</option>-->
+        <!--               <select name="MODEOFVOL" class="" id="mce-MODEOFVOL">-->
 
-<!--<option value="OFFLINE (VOLUNTEER ON FIELD AT PROJECT))">OFFLINE (VOLUNTEER ON FIELD AT PROJECT))</option>-->
+        <!--               <option value=""></option>-->
 
-<!--<option value="BOTH (COMFORTABLE WITH BOTH THE OPTIONS)">BOTH (COMFORTABLE WITH BOTH THE OPTIONS)</option>-->
+        <!--               <option value="ONLINE (VOLUNTEER FROM HOME))">ONLINE (VOLUNTEER FROM HOME))</option>-->
 
- 
+        <!--<option value="OFFLINE (VOLUNTEER ON FIELD AT PROJECT))">OFFLINE (VOLUNTEER ON FIELD AT PROJECT))</option>-->
 
-<!--               </select>-->
+        <!--<option value="BOTH (COMFORTABLE WITH BOTH THE OPTIONS)">BOTH (COMFORTABLE WITH BOTH THE OPTIONS)</option>-->
 
-<!--</div>-->
 
-<!--<div class="mc-field-group size1of2">-->
 
-<!--               <label for="mce-JOINDATE-month">AVAILABLE TO JOIN US FROM? </label>-->
+        <!--               </select>-->
 
-<!--               <div class="datefield">-->
+        <!--</div>-->
 
-<!--                              <span class="subfield dayfield"><input class="datepart " type="text" pattern="[0-9]*" value="" placeholder="DD" size="2" maxlength="2" name="JOINDATE[day]" id="mce-JOINDATE-day"></span> /-->
+        <!--<div class="mc-field-group size1of2">-->
 
-<!--        <span class="subfield monthfield"><input class="datepart " type="text" pattern="[0-9]*" value="" placeholder="MM" size="2" maxlength="2" name="JOINDATE[month]" id="mce-JOINDATE-month"></span> /-->
+        <!--               <label for="mce-JOINDATE-month">AVAILABLE TO JOIN US FROM? </label>-->
 
-<!--                              <span class="subfield yearfield"><input class="datepart " type="text" pattern="[0-9]*" value="" placeholder="YYYY" size="4" maxlength="4" name="JOINDATE[year]" id="mce-JOINDATE-year"></span>-->
+        <!--               <div class="datefield">-->
 
-<!--        <span class="small-meta nowrap">( dd / mm / yyyy )</span>-->
+        <!--                              <span class="subfield dayfield"><input class="datepart " type="text" pattern="[0-9]*" value="" placeholder="DD" size="2" maxlength="2" name="JOINDATE[day]" id="mce-JOINDATE-day"></span> /-->
 
-<!--               </div>-->
+        <!--        <span class="subfield monthfield"><input class="datepart " type="text" pattern="[0-9]*" value="" placeholder="MM" size="2" maxlength="2" name="JOINDATE[month]" id="mce-JOINDATE-month"></span> /-->
 
-<!--</div>    <div id="mce-responses" class="clear">-->
+        <!--                              <span class="subfield yearfield"><input class="datepart " type="text" pattern="[0-9]*" value="" placeholder="YYYY" size="4" maxlength="4" name="JOINDATE[year]" id="mce-JOINDATE-year"></span>-->
 
-<!--                              <div class="response" id="mce-error-response" style="display:none"></div>-->
+        <!--        <span class="small-meta nowrap">( dd / mm / yyyy )</span>-->
 
-<!--                              <div class="response" id="mce-success-response" style="display:none"></div>-->
+        <!--               </div>-->
 
-<!--               </div>   -->
+        <!--</div>    <div id="mce-responses" class="clear">-->
 
-<!--    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_a149f395291b71c582ff74c9a_f41edec4d1" tabindex="-1" value=""></div>-->
+        <!--                              <div class="response" id="mce-error-response" style="display:none"></div>-->
 
-<!--    <div class="clear"><input type="submit" value="Submit" name="submit" id="mc-embedded-subscribe" class="button"></div>-->
+        <!--                              <div class="response" id="mce-success-response" style="display:none"></div>-->
 
-<!--    </div>-->
+        <!--               </div>   -->
 
-<!--</form>-->
+        <!--    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_a149f395291b71c582ff74c9a_f41edec4d1" tabindex="-1" value=""></div>-->
 
-<!--</div>-->
+        <!--    <div class="clear"><input type="submit" value="Submit" name="submit" id="mc-embedded-subscribe" class="button"></div>-->
 
-<!--<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[0]='EMAIL';ftypes[0]='email';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='AGE';ftypes[5]='number';fnames[6]='VOLTYPE';ftypes[6]='dropdown';fnames[7]='EDUCATION';ftypes[7]='text';fnames[8]='PROFESSION';ftypes[8]='text';fnames[9]='SKILLS';ftypes[9]='text';fnames[10]='COUNTRY';ftypes[10]='text';fnames[3]='CITY';ftypes[3]='text';fnames[11]='MODEOFVOL';ftypes[11]='dropdown';fnames[12]='JOINDATE';ftypes[12]='date';}(jQuery));var $mcj = jQuery.noConflict(true);</script>-->
+        <!--    </div>-->
 
-<!--End mc_embed_signup-->
+        <!--</form>-->
+
+        <!--</div>-->
+
+        <!--<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[0]='EMAIL';ftypes[0]='email';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='AGE';ftypes[5]='number';fnames[6]='VOLTYPE';ftypes[6]='dropdown';fnames[7]='EDUCATION';ftypes[7]='text';fnames[8]='PROFESSION';ftypes[8]='text';fnames[9]='SKILLS';ftypes[9]='text';fnames[10]='COUNTRY';ftypes[10]='text';fnames[3]='CITY';ftypes[3]='text';fnames[11]='MODEOFVOL';ftypes[11]='dropdown';fnames[12]='JOINDATE';ftypes[12]='date';}(jQuery));var $mcj = jQuery.noConflict(true);</script>-->
+
+        <!--End mc_embed_signup-->
     </section>
 
     <br><br>
-    
+
     <?php include 'footer.php' ?>
 
     <a data-scroll href="#header" id="scroll-to-top"><i class="arrow_up"></i></a>

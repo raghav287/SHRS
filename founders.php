@@ -1,11 +1,13 @@
 <!doctype html>
 <html class="no-js" lang="en">
+
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Founder Members | SHRS - Safe Hands Rehabilitation Society</title>
 
-    <meta name="description" content="Safe Hands Rehabilitation Society (SHRS) is an esteemed organization with visionary founder members dedicated to transforming lives through rehabilitation. Join us on our journey towards empowerment and inclusive growth">
+    <meta name="description"
+        content="Safe Hands Rehabilitation Society (SHRS) is an esteemed organization with visionary founder members dedicated to transforming lives through rehabilitation. Join us on our journey towards empowerment and inclusive growth">
     <meta name="keywords" content="Founders Memebrs - Safe Hands Rehabilitation Society">
     <link rel="shortcut icon" href="img/favicon/favicon.png">
     <link rel="apple-touch-icon" href="img/favicon/apple-touch-icon.png">
@@ -40,9 +42,9 @@
 </head>
 
 <body>
-    <div class="site-preloader-wrap">
+    <!-- <div class="site-preloader-wrap">
         <div class="spinner"></div>
-    </div>
+    </div> -->
 
     <?php include 'header.php' ?>
 
@@ -52,7 +54,8 @@
         <div class="container">
             <div class="page-content">
                 <h2>Founder Members</h2>
-                <p>Safe Hands Rehabilitation Society (SHRS) is an esteemed organization with visionary founder members dedicated to transforming lives through rehabilitation</p>
+                <p>Safe Hands Rehabilitation Society (SHRS) is an esteemed organization with visionary founder members
+                    dedicated to transforming lives through rehabilitation</p>
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="/">Home</a></li>
                     <li class="breadcrumb-item active">Founders</li>
@@ -65,29 +68,45 @@
         <!-- <div id="google_map"></div> -->
         <br>
         <div class="container">
-        <p>Welcome to the Founders Members page of Safe Hands Rehabilitation Society (SHRS). Established in 2013, SHRS is a pioneering organization dedicated to addressing mental health stigma through regular awareness programs. Our founders had a visionary outlook and a strong commitment to transforming lives and promoting inclusive growth.
-<br><br>
-Over the years, SHRS has gained recognition and accolades for its outstanding work in various developmental fields. We take great pride in the fact that our efforts have been appreciated by central and state governments, district administrations, and legislatures. This recognition is a testament to our dedication and the positive impact we have made on society.
-<br><br>
-At SHRS, we believe that public welfare is not just a goal but a social and managerial process. We strive to create an environment where individuals and groups can obtain what they need and want through problem-solving and teamwork. Our founders have laid the foundation for this approach, emphasizing the importance of collaboration and community involvement.
-<br><br>
-As a Founders Member of SHRS, you play a crucial role in shaping the organization's future and driving its mission forward. Your support and active participation are instrumental in creating a society that embraces mental health, empowers individuals, and fosters holistic well-being.
-<br><br>
-Together, let us continue the incredible work started by our founders and work towards a society where mental health stigma is eradicated, and every individual has access to the support and resources they need. Thank you for your dedication to SHRS and for being an integral part of our journey towards a better tomorrow.</p>
-</div>
+            <p>Welcome to the Founders Members page of Safe Hands Rehabilitation Society (SHRS). Established in 2013,
+                SHRS is a pioneering organization dedicated to addressing mental health stigma through regular awareness
+                programs. Our founders had a visionary outlook and a strong commitment to transforming lives and
+                promoting inclusive growth.
+                <br><br>
+                Over the years, SHRS has gained recognition and accolades for its outstanding work in various
+                developmental fields. We take great pride in the fact that our efforts have been appreciated by central
+                and state governments, district administrations, and legislatures. This recognition is a testament to
+                our dedication and the positive impact we have made on society.
+                <br><br>
+                At SHRS, we believe that public welfare is not just a goal but a social and managerial process. We
+                strive to create an environment where individuals and groups can obtain what they need and want through
+                problem-solving and teamwork. Our founders have laid the foundation for this approach, emphasizing the
+                importance of collaboration and community involvement.
+                <br><br>
+                As a Founders Member of SHRS, you play a crucial role in shaping the organization's future and driving
+                its mission forward. Your support and active participation are instrumental in creating a society that
+                embraces mental health, empowers individuals, and fosters holistic well-being.
+                <br><br>
+                Together, let us continue the incredible work started by our founders and work towards a society where
+                mental health stigma is eradicated, and every individual has access to the support and resources they
+                need. Thank you for your dedication to SHRS and for being an integral part of our journey towards a
+                better tomorrow.
+            </p>
+        </div>
     </section>
 
-<section class="team-section bg-grey bd-bottom padding">
+    <section class="team-section bg-grey bd-bottom padding">
         <div class="container">
-            
-            
+
+
             <div class="section-heading text-center mb-40">
                 <h2>Meet Our Core Team</h2>
                 <span class="heading-border"></span>
-                <p>Get to know the incredible individuals who make up our team - a passionate group of professionals dedicated to making a positive impact. Meet the inspiring minds behind our mission at SHRS!!</p>
+                <p>Get to know the incredible individuals who make up our team - a passionate group of professionals
+                    dedicated to making a positive impact. Meet the inspiring minds behind our mission at SHRS!!</p>
             </div>
-            
-            
+
+
             <div class="team-wrapper row">
                 <div class="col-lg-12 sm-padding">
                     <div class="team-wrap row">
@@ -115,7 +134,7 @@ Together, let us continue the incredible work started by our founders and work t
                                 </div>
                             </div>
                         </div>
-                        
+
                         <div class="col-md-3 xs-padding">
                             <div class="team-details">
                                 <img src="img/team-5.jpg" alt="team">
@@ -124,10 +143,10 @@ Together, let us continue the incredible work started by our founders and work t
                                 </div>
                             </div>
                         </div>
-                        
-                         </div>
-                         
-                        <div class="team-wrap row mt-30">
+
+                    </div>
+
+                    <div class="team-wrap row mt-30">
                         <!--<div class="col-md-4 xs-padding">-->
                         <!--    <div class="team-details">-->
                         <!--        <img src="img/team-4.png" alt="team">-->
@@ -152,17 +171,17 @@ Together, let us continue the incredible work started by our founders and work t
                         <!--        </div>-->
                         <!--    </div>-->
                         <!--</div>-->
-                        
-                       
-                        
+
+
+
                     </div>
                 </div>
             </div>
         </div>
     </section>
- 
- 
-  <div class="sponsor-section bd-bottom">
+
+
+    <div class="sponsor-section bd-bottom">
         <div class="container">
             <ul id="sponsor-carousel" class="sponsor-items owl-carousel">
                 <li class="sponsor-item">
@@ -183,12 +202,12 @@ Together, let us continue the incredible work started by our founders and work t
                 <li class="sponsor-item">
                     <img src="img/partner-6.jpg" alt="sponsor-image">
                 </li>
-                
-               
+
+
             </ul>
         </div>
     </div>
-    
+
     <?php include 'footer.php' ?>
 
     <a data-scroll href="#header" id="scroll-to-top"><i class="arrow_up"></i></a>

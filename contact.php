@@ -1,11 +1,13 @@
 <!doctype html>
 <html class="no-js" lang="en">
+
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Contact Us | SHRS - Safe Hands Rehabilitation Society</title>
 
-    <meta name="description" content="Contact Safe Hands Rehabilitation Society (SHRS), a non-profit empowering individuals with disabilities to achieve their potential. Reach out to us today">
+    <meta name="description"
+        content="Contact Safe Hands Rehabilitation Society (SHRS), a non-profit empowering individuals with disabilities to achieve their potential. Reach out to us today">
     <meta name="keywords" content="Contact Us SHRS - Safe Hands Rehabilitation Society">
     <link rel="shortcut icon" href="img/favicon/favicon.png">
     <link rel="apple-touch-icon" href="img/favicon/apple-touch-icon.png">
@@ -40,9 +42,9 @@
 </head>
 
 <body>
-    <div class="site-preloader-wrap">
+    <!-- <div class="site-preloader-wrap">
         <div class="spinner"></div>
-    </div>
+    </div> -->
 
     <?php include 'header.php' ?>
 
@@ -52,7 +54,8 @@
         <div class="container">
             <div class="page-content">
                 <h2>Contact Us</h2>
-                <p>Ready to embark on a transformative journey? Contact us now and let's create a world of limitless possibilities together!</p>
+                <p>Ready to embark on a transformative journey? Contact us now and let's create a world of limitless
+                    possibilities together!</p>
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="/">Home</a></li>
                     <li class="breadcrumb-item active">Contact</li>
@@ -65,17 +68,24 @@
         <!-- <div id="google_map"></div> -->
         <br>
         <div class="container">
-        <p>At SHRS, we believe in the power of community and the importance of mental health. We have been dedicated to raising awareness and reducing stigma surrounding mental health since our establishment in 2013. We understand the significance of engaging various stakeholders, including parents, teachers, students, community leaders, and local government representatives, to create a supportive environment.</p>
-</div>
-<br>
+            <p>At SHRS, we believe in the power of community and the importance of mental health. We have been dedicated
+                to raising awareness and reducing stigma surrounding mental health since our establishment in 2013. We
+                understand the significance of engaging various stakeholders, including parents, teachers, students,
+                community leaders, and local government representatives, to create a supportive environment.</p>
+        </div>
+        <br>
         <div class="container">
             <div class="row contact-wrap">
                 <div class="col-md-6 xs-padding">
                     <div class="contact-info">
                         <h3>We would be delighted to hear from you!</h3>
-                        <p>Your feedback, suggestions, and inquiries are crucial to our continued growth and improvement. We welcome any questions you may have, whether it's about our awareness programs, community initiatives, or partnerships. Our team of dedicated professionals is here to provide you with the information you need.</p>
+                        <p>Your feedback, suggestions, and inquiries are crucial to our continued growth and
+                            improvement. We welcome any questions you may have, whether it's about our awareness
+                            programs, community initiatives, or partnerships. Our team of dedicated professionals is
+                            here to provide you with the information you need.</p>
                         <ul>
-                            <li><i class="ti-location-pin"></i> #1, Farm House, Main Road Khuda Ali Sher</li> <li>Chandigarh - 160001</li>
+                            <li><i class="ti-location-pin"></i> #1, Farm House, Main Road Khuda Ali Sher</li>
+                            <li>Chandigarh - 160001</li>
                             <li><i class="ti-mobile"></i> +91 8427009040</li>
                             <li><i class="ti-email"></i> shrsconnect@gmail.com</li>
                         </ul>
@@ -84,7 +94,8 @@
                 <div class="col-md-6 xs-padding">
                     <div class="contact-form">
                         <h3>Drop us a line</h3>
-                        <p>If you'd like to get in touch with us, please feel free to reach out using the contact information provided below</p>
+                        <p>If you'd like to get in touch with us, please feel free to reach out using the contact
+                            information provided below</p>
                         <form action="https://html.dynamiclayers.net/dl/charitify/contact.php" method="post"
                             id="ajax_form" class="form-horizontal">
                             <div class="form-group colum-row row">
@@ -117,7 +128,7 @@
     </section>
 
     <br>
-    
+
     <?php include 'footer.php' ?>
 
     <a data-scroll href="#header" id="scroll-to-top"><i class="arrow_up"></i></a>
