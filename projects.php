@@ -180,9 +180,9 @@
 </head>
 
 <body>
-    <div class="site-preloader-wrap">
+    <!-- <div class="site-preloader-wrap">
         <div class="spinner"></div>
-    </div>
+    </div> -->
 
     <?php include 'header.php' ?>
 
@@ -268,10 +268,60 @@
                             <div class="blog-post">
                                 <img src="img/project/3.jpg" alt="Project">
                                 <div class="blog-content">
-                                    <h3><a href="https://www.shrs.in/projects">Drug De Addiction Campaign</a></h3>
+                                    <h3><a href="drug-de-addiction">Drug De Addiction Campaign</a>
+                                    </h3>
                                     <p>Raising awareness about drug addiction and providing support for individuals
                                         seeking recovery.</p>
-                                    <a href="https://www.shrs.in/projects" class="post-meta">Read More</a>
+                                    <a href="drug-de-addiction" class="post-meta">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 padding-15">
+                            <div class="blog-post">
+                                <img src="img/project/13.jpg" alt="Project">
+                                <div class="blog-content">
+                                    <h3><a href="skill-development">Skill Development</a></h3>
+                                    <p>Providing training and support to develop essential skills for personal and
+                                        professional growth.</p>
+                                    <a href="skill-development" class="post-meta">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 padding-15">
+                            <div class="blog-post">
+                                <img src="img/project/9.jpg" alt="Project">
+                                <div class="blog-content">
+                                    <h3><a href="paper-plates">Paper Plates & Paper Cups</a></h3>
+                                    <p>Eco-Friendly Paper Products Manufacturing Program and basic business management
+                                    </p>
+                                    <a href="paper-plates" class="post-meta">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 padding-15">
+                            <div class="blog-post">
+                                <img src="img/project/9.jpg" alt="Project">
+                                <div class="blog-content">
+                                    <h3><a href="pearl-farming">Pearl Farming</a></h3>
+                                    <p>Pearl farming is a low-cost, high-value, and environmentally sustainable
+                                        practice without harming the ecosystem
+                                    </p>
+                                    <a href="pearl-farming" class="post-meta">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 padding-15">
+                            <div class="blog-post">
+                                <img src="img/project/9.jpg" alt="Project">
+                                <div class="blog-content">
+                                    <h3><a href="handicrafts">Handicrafts </a></h3>
+                                    <p>Pearl farming is a low-cost, high-value, and environmentally sustainable
+                                        practice without harming the ecosystem
+                                    </p>
+                                    <a href="handicrafts" class="post-meta">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -384,17 +434,7 @@
                             </div>
                         </div>
 
-                        <div class="col-md-4 padding-15">
-                            <div class="blog-post">
-                                <img src="img/project/13.jpg" alt="Project">
-                                <div class="blog-content">
-                                    <h3><a href="https://www.shrs.in/projects">Skill Development</a></h3>
-                                    <p>Providing training and support to develop essential skills for personal and
-                                        professional growth.</p>
-                                    <a href="https://www.shrs.in/projects" class="post-meta">Read More</a>
-                                </div>
-                            </div>
-                        </div>
+
 
                         <div class="col-md-4 padding-15">
                             <div class="blog-post">
