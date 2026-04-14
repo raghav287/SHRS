@@ -79,6 +79,22 @@
         border-radius: 12px;
         box-shadow: 0 18px 36px rgba(0, 0, 0, 0.08);
     }
+
+    /* Portrait-style video thumbnail in volunteers section */
+    .team-section .video-wrap {
+        width: 100%;
+        max-width: none;
+        margin: 0 0 30px;
+    }
+
+    .team-section .video-wrap img {
+        width: 100%;
+        aspect-ratio: 3 / 4;
+        height: auto;
+        max-height: 520px;
+        object-fit: cover;
+        border-radius: 12px;
+    }
     </style>
 </head>
 
@@ -104,13 +120,14 @@
                     <div class="table-cell">
                         <div class="container">
                             <div class="slider-text">
-                                <h5 class="wow cssanimation fadeInBottom">Welcome To</h5>
-                                <h1 class="wow cssanimation leFadeInRight sequence">Safe Hands Rehabilitation Society
+                                <h5 class="wow cssanimation fadeInBottom">Impacting lives</h5>
+                                <h1 class="wow cssanimation leFadeInRight sequence">Empowering lives through health,
+                                    skills, and rehabilitation.
                                 </h1>
-                                <p class="wow cssanimation fadeInTop" data-wow-delay="1s">SHRS is a non-profit
-                                    organization located in Chandigarh, India, with a mission to provide welfare
-                                    services to individuals affected by various disabilities, including autism, learning
-                                    disabilities, hearing/visual impairments, and physical disabilities</p>
+                                <p class="wow cssanimation fadeInTop" data-wow-delay="1s">Safe Hands Rehabilitation
+                                    Society (SHRS) is committed to creating a healthier, inclusive, and self-reliant
+                                    society by empowering women, supporting youth, and improving community well-being
+                                    through sustainable programs.</p>
                                 <a href="https://www.shrs.in/about" class="default-btn wow cssanimation fadeInBottom"
                                     data-wow-delay="0.8s">About Us</a>
                                 <a href="https://www.shrs.in/donate-now"
@@ -256,9 +273,6 @@
     <section class="special-events-section">
         <div class="container">
             <div class="section-heading text-center">
-                <h2>Special Children Events</h2>
-                <span class="heading-border"></span>
-                <p>Highlights from SHRS talent hunts, awareness runs, and media coverage featuring special children.</p>
             </div>
             <img src="img/special-children-events.png" class="special-events-img" alt="Special children events collage">
             <img src="img/special-children-events-olympics.png" class="special-events-img"
@@ -294,7 +308,7 @@
                         <img src="img/stage.jpg" alt="video">
                         <div class="play">
                             <a class="img-popup" data-autoplay="true" data-vbtype="video"
-                                href="https://www.youtube.com/watch?v=_IlLwfC2dNc"><i class="ti-control-play"></i></a>
+                                href="https://www.youtube.com/watch?v=0hgvkF5scDo"><i class="ti-control-play"></i></a>
                         </div>
                     </div>
                 </div>
@@ -317,12 +331,22 @@
     <section class="team-section bg-grey bd-bottom circle shape padding">
         <div class="container">
             <div class="section-heading text-center mb-40">
-                <h2>Meet Our Volunteers</h2>
+                <h2>Meet Our Volunteers/Interns</h2>
                 <span class="heading-border"></span>
                 <p>Join us in meeting our team of compassionate individuals, committed<br>to making a positive impact on
                     the world and working tirelessly to achieve our NGO's mission</p>
             </div>
             <div class="team-wrapper row">
+                <div class="col-lg-6 sm-padding">
+                    <div class="video-wrap">
+                        <img src="img/team-teaching.jpg" alt="Volunteers in action">
+                        <div class="play">
+                            <a class="img-popup" data-autoplay="true" data-vbtype="video"
+                                href="https://www.youtube.com/watch?v=YtvdP7W8aHk&t=7s"><i
+                                    class="ti-control-play"></i></a>
+                        </div>
+                    </div>
+                </div>
                 <!-- <div class="col-lg-6 sm-padding">
                     <div class="team-wrap row">
                         <div class="col-md-6">
@@ -361,7 +385,7 @@
                 </div> -->
                 <div class="col-lg-6 sm-padding">
                     <div class="team-content">
-                        <h2>Become a Volunteer?</h2>
+                        <h2>Become a Volunteer/Interns?</h2>
                         <!-- <h3>Join your hand with SHRS for a better life and beautiful future.</h3> -->
                         <p>We have volunteer for movement (V4M) program, it is an online engagement program for
                             children, youth & adults to Learn, Perform and Grab with focus on self-development, civic

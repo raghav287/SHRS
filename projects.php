@@ -204,7 +204,7 @@
 
 
 
-    <section class="projects-overview-section">
+    <!-- <section class="projects-overview-section">
         <div class="container">
             <div class="section-heading text-center">
                 <h2>Our Projects </h2>
@@ -213,7 +213,7 @@
             </div>
             <img src="img/our-projects.png" class="projects-overview-img" alt="SHRS projects overview diagram">
         </div>
-    </section>
+    </section> -->
 
     <section class="contact-section paddingAA">
         <!-- <div id="google_map"></div> -->
