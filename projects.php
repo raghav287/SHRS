@@ -326,7 +326,7 @@
                             </div>
                         </div>
 
-                        <div class="col-md-4 padding-15">
+                        <!-- <div class="col-md-4 padding-15">
                             <div class="blog-post">
                                 <img src="img/project/4.jpg" alt="Project">
                                 <div class="blog-content">
@@ -336,9 +336,9 @@
                                     <a href="https://www.shrs.in/projects" class="post-meta">Read More</a>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
-                        <div class="col-md-4 padding-15">
+                        <!-- <div class="col-md-4 padding-15">
                             <div class="blog-post">
                                 <img src="img/project/5.jpg" alt="Project">
                                 <div class="blog-content">
@@ -348,9 +348,9 @@
                                     <a href="https://www.shrs.in/projects" class="post-meta">Read More</a>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
-                        <div class="col-md-4 padding-15">
+                        <!-- <div class="col-md-4 padding-15">
                             <div class="blog-post">
                                 <img src="img/project/6.jpg" alt="Project">
                                 <div class="blog-content">
@@ -360,9 +360,9 @@
                                     <a href="https://www.shrs.in/projects" class="post-meta">Read More</a>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
-                        <div class="col-md-4 padding-15">
+                        <!-- <div class="col-md-4 padding-15">
                             <div class="blog-post">
                                 <img src="img/project/7.jpg" alt="Project">
                                 <div class="blog-content">
@@ -372,9 +372,9 @@
                                     <a href="https://www.shrs.in/projects" class="post-meta">Read More</a>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
-                        <div class="col-md-4 padding-15">
+                        <!-- <div class="col-md-4 padding-15">
                             <div class="blog-post">
                                 <img src="img/project/8.jpg" alt="Project">
                                 <div class="blog-content">
@@ -384,20 +384,20 @@
                                     <a href="https://www.shrs.in/projects" class="post-meta">Read More</a>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
                         <div class="col-md-4 padding-15">
                             <div class="blog-post">
                                 <img src="img/project/9.jpg" alt="Project">
                                 <div class="blog-content">
-                                    <h3><a href="https://www.shrs.in/projects">Use of Sanitary Pad Awareness</a></h3>
+                                    <h3><a href="sanitary-pad">Use of Sanitary Pad Awareness</a></h3>
                                     <p>Creating awareness about menstrual hygiene and promoting the use of sanitary
                                         pads.</p>
-                                    <a href="https://www.shrs.in/projects" class="post-meta">Read More</a>
+                                    <a href="sanitary-pad" class="post-meta">Read More</a>
                                 </div>
                             </div>
                         </div>
-
+                        <!-- 
                         <div class="col-md-4 padding-15">
                             <div class="blog-post">
                                 <img src="img/project/10.jpg" alt="Project">
@@ -408,9 +408,9 @@
                                     <a href="https://www.shrs.in/projects" class="post-meta">Read More</a>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
-                        <div class="col-md-4 padding-15">
+                        <!-- <div class="col-md-4 padding-15">
                             <div class="blog-post">
                                 <img src="img/project/11.jpg" alt="Project">
                                 <div class="blog-content">
@@ -420,9 +420,9 @@
                                     <a href="https://www.shrs.in/projects" class="post-meta">Read More</a>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
-                        <div class="col-md-4 padding-15">
+                        <!-- <div class="col-md-4 padding-15">
                             <div class="blog-post">
                                 <img src="img/project/12.jpg" alt="Project">
                                 <div class="blog-content">
@@ -432,7 +432,7 @@
                                     <a href="https://www.shrs.in/projects" class="post-meta">Read More</a>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
 
 
@@ -440,15 +440,15 @@
                             <div class="blog-post">
                                 <img src="img/project/14.jpg" alt="Project">
                                 <div class="blog-content">
-                                    <h3><a href="https://www.shrs.in/projects">Health and Prevention</a></h3>
+                                    <h3><a href="health-prevention">Health and Prevention</a></h3>
                                     <p>Conducting health awareness campaigns, programs and preventive healthcare
                                         initiatives.</p>
-                                    <a href="https://www.shrs.in/projects" class="post-meta">Read More</a>
+                                    <a href="health-prevention" class="post-meta">Read More</a>
                                 </div>
                             </div>
                         </div>
 
-                        <div class="col-md-4 padding-15">
+                        <!-- <div class="col-md-4 padding-15">
                             <div class="blog-post">
                                 <img src="img/project/15.jpg" alt="Project">
                                 <div class="blog-content">
@@ -458,9 +458,9 @@
                                     <a href="https://www.shrs.in/projects" class="post-meta">Read More</a>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
-                        <div class="col-md-4 padding-15">
+                        <!-- <div class="col-md-4 padding-15">
                             <div class="blog-post">
                                 <img src="img/project/16.jpg" alt="Project">
                                 <div class="blog-content">
@@ -470,9 +470,9 @@
                                     <a href="https://www.shrs.in/projects" class="post-meta">Read More</a>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
-                        <div class="col-md-4 padding-15">
+                        <!-- <div class="col-md-4 padding-15">
                             <div class="blog-post">
                                 <img src="img/project/17.jpg" alt="Project">
                                 <div class="blog-content">
@@ -483,9 +483,9 @@
                                     <a href="https://www.shrs.in/projects" class="post-meta">Read More</a>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
-                        <div class="col-md-4 padding-15">
+                        <!-- <div class="col-md-4 padding-15">
                             <div class="blog-post">
                                 <img src="img/project/18.jpg" alt="Project">
                                 <div class="blog-content">
@@ -495,7 +495,7 @@
                                     <a href="https://www.shrs.in/other-projects" class="post-meta">Read More</a>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
 
 

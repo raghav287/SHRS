@@ -1,11 +1,13 @@
 <!doctype html>
 <html class="no-js" lang="en">
+
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Our Story | SHRS - Safe Hands Rehabilitation Society</title>
 
-    <meta name="description" content="Discover the inspiring journey of SHRS - Safe Hands Rehabilitation Society, empowering specially abled children to reach their full potential. Join us today">
+    <meta name="description"
+        content="Discover the inspiring journey of SHRS - Safe Hands Rehabilitation Society, empowering specially abled children to reach their full potential. Join us today">
     <meta name="keywords" content="Our Story - Safe Hands Rehabilitation Society">
     <link rel="shortcut icon" href="img/favicon/favicon.png">
     <link rel="apple-touch-icon" href="img/favicon/apple-touch-icon.png">
@@ -65,21 +67,30 @@
         <!-- <div id="google_map"></div> -->
         <br>
         <div class="container">
-        <p>Our story at Safe Hands Rehabilitation Society (SHRS) is driven by a passion to make a difference in the lives of specially abled children. These children, despite facing unique challenges, possess a special talent and deserve the same opportunities for a healthy and fulfilling life.<br><br>Our NGO is dedicated to raising the standard of living for this segment of the population, ensuring their inclusion in the mainstream society.</p>
-</div>
+            <p>Our story at Safe Hands Rehabilitation Society (SHRS) is driven by a passion to make a difference in the
+                lives of specially abled children. These children, despite facing unique challenges, possess a special
+                talent and deserve the same opportunities for a healthy and fulfilling life.<br><br>Our NGO is dedicated
+                to raising the standard of living for this segment of the population, ensuring their inclusion in the
+                mainstream society.</p>
+        </div>
     </section>
-<br>
- <section class="about-section section-heading">
+    <br>
+    <section class="about-section section-heading">
         <div class="container">
             <div class="row">
-                
+
                 <div class="col-md-12 xs-padding">
                     <div class="about-wrap row">
                         <div class="col-md-6 xs-padding">
                             <h3>Our Motto</h3>
                             <span class="heading-border"></span>
-                            <p>Our motto is simple yet powerful: "Every capable one should help the incapable one to become sufficiently capable." We recognize that this journey is not easy, but with collective effort and support, we can make a significant impact and improve the lives of the less privileged.<br><br>
-                            What sets us apart is the youthfulness and fresh perspective of our team. Unlike traditional NGOs led by older, experienced individuals, SHRS was founded by a group of young professionals specializing in special education.</p>
+                            <p>Our motto is simple yet powerful: "Every capable one should help the incapable one to
+                                become sufficiently capable." We recognize that this journey is not easy, but with
+                                collective effort and support, we can make a significant impact and improve the lives of
+                                the less privileged.<br><br>
+                                What sets us apart is the youthfulness and fresh perspective of our team. Unlike
+                                traditional NGOs led by older, experienced individuals, SHRS was founded by a group of
+                                young professionals specializing in special education.</p>
                         </div>
                         <div class="col-md-6 xs-padding">
                             <img src="img/team.jpg" alt="about-thumb">
@@ -87,32 +98,42 @@
                     </div>
                 </div>
             </div>
-            
-            <p>Our visionary and founder, Bikramjit Singh Mann, is a successful businessman in the film industry and an efficient special educator himself. Each member of our governing body brings expertise from various fields of special education.<br><br>We believe in deviating from social norms and revitalizing society through innovative approaches. Our focus is on the neglected section of society—children with special needs. Through our collective knowledge, experience, and dedication, we aim to empower these children, ensuring they have access to quality education, rehabilitation, and holistic support.</p>
-            
+
+            <p>Our visionary and founder, Bikramjit Singh Mann, is a successful businessman in the film industry and an
+                efficient special educator himself. Each member of our governing body brings expertise from various
+                fields of special education.<br><br>We believe in deviating from social norms and revitalizing society
+                through innovative approaches. Our focus is on the neglected section of society—children with special
+                needs. Through our collective knowledge, experience, and dedication, we aim to empower these children,
+                ensuring they have access to quality education, rehabilitation, and holistic support.</p>
+
             <br>
             <div class="row">
-                
+
                 <div class="col-md-12 xs-padding">
                     <div class="about-wrap row">
-                         <div class="col-md-6 xs-padding">
+                        <div class="col-md-6 xs-padding">
                             <img src="img/team-teaching.jpg" alt="about-thumb">
                         </div>
-                        
+
                         <div class="col-md-6 xs-padding">
                             <h3>We Pledged to</h3>
                             <span class="heading-border"></span>
-                            <p>At SHRS, we are driven by the twinkling eyes and aspirations of these children, their desire to touch the starlit skies. Our ultimate goal is to help them overcome barriers, unlock their true potential, and become active participants in society.<br><br>We invite you to join us on this noble journey of transforming lives, as together, we can create a world where every child, regardless of their abilities, can lead a healthy, happy, and fulfilling life.</p>
+                            <p>At SHRS, we are driven by the twinkling eyes and aspirations of these children, their
+                                desire to touch the starlit skies. Our ultimate goal is to help them overcome barriers,
+                                unlock their true potential, and become active participants in society.<br><br>We invite
+                                you to join us on this noble journey of transforming lives, as together, we can create a
+                                world where every child, regardless of their abilities, can lead a healthy, happy, and
+                                fulfilling life.</p>
                         </div>
-                       
+
                     </div>
                 </div>
             </div>
-            
+
         </div>
     </section>
-    
-     <div class="sponsor-section bd-bottom bg-grey">
+
+    <!-- <div class="sponsor-section bd-bottom bg-grey">
         <div class="container">
             <ul id="sponsor-carousel" class="sponsor-items owl-carousel">
                 <li class="sponsor-item">
@@ -137,8 +158,8 @@
                
             </ul>
         </div>
-    </div>
-    
+    </div> -->
+
     <?php include 'footer.php' ?>
 
     <a data-scroll href="#header" id="scroll-to-top"><i class="arrow_up"></i></a>

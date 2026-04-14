@@ -234,6 +234,6 @@
 <span class="wafloat">
     <a href="https://api.whatsapp.com/send?phone=919814009040&text=Hi%2C+is+there+anyone+from+SHRS+%3F" target="_blank"
         rel="noopener noreferrer" aria-label="Chat with SHRS on WhatsApp">
-        <i class="fa fa-whatsapp mks-bounce" aria-hidden="true"></i>
+        <i class="fa fa-whatsapp" aria-hidden="true"></i>
     </a>
 </span>

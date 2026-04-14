@@ -1,11 +1,13 @@
 <!doctype html>
 <html class="no-js" lang="en">
+
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Mission and Vision | SHRS - Safe Hands Rehabilitation Society</title>
 
-    <meta name="description" content="SHRS envisions a society where everyone receives safe and effective rehabilitation services. Our mission is to improve lives through compassionate care">
+    <meta name="description"
+        content="SHRS envisions a society where everyone receives safe and effective rehabilitation services. Our mission is to improve lives through compassionate care">
     <meta name="keywords" content="Mission and Vision SHRS - Safe Hands Rehabilitation Society">
     <link rel="shortcut icon" href="img/favicon/favicon.png">
     <link rel="apple-touch-icon" href="img/favicon/apple-touch-icon.png">
@@ -65,40 +67,65 @@
         <!-- <div id="google_map"></div> -->
         <br>
         <div class="container">
-        <p>Our mission is to create an equal society where individuals gain skills for independence. We strive to support and empower women, ensuring their inclusion in the economy and households. Our focus is on literacy, vocational education, health awareness, advocating for beneficial policies, and women's rights. Welcome to Safe Hands Rehabilitation Society, where we aim to inform, communicate, and empower.<br><br> Our vision includes empowering special children, bridging information poverty, promoting health, supporting the needy and elderly, empowering women and youth, sustainable agriculture and tourism, and preserving heritage and culture. Through various projects, we work towards these goals.</p>
-</div>
+            <p>Our mission is to create an equal society where individuals gain skills for independence. We strive to
+                support and empower women, ensuring their inclusion in the economy and households. Our focus is on
+                literacy, vocational education, health awareness, advocating for beneficial policies, and women's
+                rights. Welcome to Safe Hands Rehabilitation Society, where we aim to inform, communicate, and
+                empower.<br><br> Our vision includes empowering special children, bridging information poverty,
+                promoting health, supporting the needy and elderly, empowering women and youth, sustainable agriculture
+                and tourism, and preserving heritage and culture. Through various projects, we work towards these goals.
+            </p>
+        </div>
     </section>
-	
-	<section class="about-section bd-bottom shape circle padding">
+
+    <section class="about-section bd-bottom shape circle padding">
         <div class="container">
             <div class="row">
-                
+
                 <div class="col-md-12 xs-padding">
                     <div class="about-wrap row">
                         <div class="col-md-6 xs-padding">
                             <img src="img/history.jpg" alt="about-thumb">
                             <h3>Our Vision</h3>
-                            <p>With the motto to “Inform, Communicate, and Empower”, Safe Hands Rehabilitation Society aims to empower the abilities of special children, find sustainable ICT solutions, to overcome information poverty in rural, semi urban and urban areas of India. <br><br>It also aims to promote Health through Ayurveda and prevention strategies, Helping the needy and old age people, Women and Youth Empowerment, Sustainable Agriculture and Tourism. <br><br>In an effort to achieve this aim, SHRS has initiated projects in areas of Access & Infrastructure; Education & Empowerment; Governance & Citizen Services; Markets & Social Enterprises; Knowledge Hub & Network; Research & Advocacy and Heritage & Culture</p>
+                            <p>With the motto to “Inform, Communicate, and Empower”, Safe Hands Rehabilitation Society
+                                aims to empower the abilities of special children, find sustainable ICT solutions, to
+                                overcome information poverty in rural, semi urban and urban areas of India. <br><br>It
+                                also aims to promote Health through Ayurveda and prevention strategies, Helping the
+                                needy and old age people, Women and Youth Empowerment, Sustainable Agriculture and
+                                Tourism. <br><br>In an effort to achieve this aim, SHRS has initiated projects in areas
+                                of Access & Infrastructure; Education & Empowerment; Governance & Citizen Services;
+                                Markets & Social Enterprises; Knowledge Hub & Network; Research & Advocacy and Heritage
+                                & Culture</p>
                         </div>
                         <div class="col-md-6 xs-padding">
                             <img src="img/mission.jpg" alt="about-thumb">
                             <h3>Our Mission</h3>
-                            <p>Talking about our mission and in addition to our short-term goals, we also prioritize community engagement to foster active participation and collaboration. Through community outreach programs, we aim to create a supportive environment that encourages learning, skill development, and the exchange of knowledge.<br><br>Moreover, we strive to establish strategic partnerships with local organizations, educational institutions, and government agencies to amplify our impact and ensure the sustainability of our initiatives.<br><br> By leveraging these collaborations, we can reach a wider audience, share resources, and implement comprehensive solutions that address the multifaceted challenges faced by individuals and communities.</p>
+                            <p>Talking about our mission and in addition to our short-term goals, we also prioritize
+                                community engagement to foster active participation and collaboration. Through community
+                                outreach programs, we aim to create a supportive environment that encourages learning,
+                                skill development, and the exchange of knowledge.<br><br>Moreover, we strive to
+                                establish strategic partnerships with local organizations, educational institutions, and
+                                government agencies to amplify our impact and ensure the sustainability of our
+                                initiatives.<br><br> By leveraging these collaborations, we can reach a wider audience,
+                                share resources, and implement comprehensive solutions that address the multifaceted
+                                challenges faced by individuals and communities.</p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    
-	
-	<section class="cta-section d-flex align-items-center">
+
+
+    <section class="cta-section d-flex align-items-center">
         <div class="container">
             <div class="row">
                 <div class="col-md-9">
                     <div class="cta-content">
                         <h2>Ready to Join With Us?</h2>
-                        <p>Are you ready to make a difference? Join forces with us at SHRS and become part of a community committed to transforming lives and creating lasting change. Get involved today and let's make a positive impact together!</p>
+                        <p>Are you ready to make a difference? Join forces with us at SHRS and become part of a
+                            community committed to transforming lives and creating lasting change. Get involved today
+                            and let's make a positive impact together!</p>
                     </div>
                 </div>
                 <div class="col-md-3 d-flex align-items-center text-right">
@@ -107,8 +134,8 @@
             </div>
         </div>
     </section>
-    
-    <div class="sponsor-section bd-bottom">
+
+    <!-- <div class="sponsor-section bd-bottom">
         <div class="container">
             <ul id="sponsor-carousel" class="sponsor-items owl-carousel">
                 <li class="sponsor-item">
@@ -133,9 +160,9 @@
                
             </ul>
         </div>
-    </div>
-	
-	
+    </div> -->
+
+
     <?php include 'footer.php' ?>
 
     <a data-scroll href="#header" id="scroll-to-top"><i class="arrow_up"></i></a>

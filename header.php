@@ -50,9 +50,9 @@
                                 <li><a href="https://www.shrs.in/mission-vision">Mission & Vision</a></li>
                                 <li><a href="https://www.shrs.in/governance">Governance</a></li>
                                 <li><a href="https://www.shrs.in/founders">Founders & Members</a></li>
-                                <li><a href="/">Awards and Recognitions</a></li>
+                                <!-- <li><a href="/">Awards and Recognitions</a></li> -->
                                 <li><a href="https://www.shrs.in/our-evolution">Our Evolution</a></li>
-                                <li><a href="/">Financials</a></li>
+                                <!-- <li><a href="/">Financials</a></li> -->
                                 <!--<li><a href="https://www.shrs.in/our-partners">Our Partners</a></li>-->
                             </ul>
                         </li>
